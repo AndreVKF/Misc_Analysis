@@ -1,0 +1,409 @@
+,Refdate,INDUSTRY_SECTOR,Index_Value,Country
+0,2020-01-02,Communications,0.5595,Italy
+1,2020-01-02,"Consumer, Cyclical",240.2415,Italy
+2,2020-01-02,"Consumer, Non-cyclical",208.55,Italy
+3,2020-01-02,Energy,18.389,Italy
+4,2020-01-02,Financial,193.605,Italy
+5,2020-01-02,Industrial,85.13499999999999,Italy
+6,2020-01-02,Technology,24.76,Italy
+7,2020-01-02,Utilities,25.037,Italy
+8,2020-01-03,Communications,0.5577,Italy
+9,2020-01-03,"Consumer, Cyclical",238.65550000000002,Italy
+10,2020-01-03,"Consumer, Non-cyclical",208.77999999999997,Italy
+11,2020-01-03,Energy,18.525,Italy
+12,2020-01-03,Financial,190.57349999999994,Italy
+13,2020-01-03,Industrial,84.166,Italy
+14,2020-01-03,Technology,24.59,Italy
+15,2020-01-03,Utilities,24.9985,Italy
+16,2020-01-06,Communications,0.5526,Italy
+17,2020-01-06,"Consumer, Cyclical",236.74149999999997,Italy
+18,2020-01-06,"Consumer, Non-cyclical",206.64999999999998,Italy
+19,2020-01-06,Energy,18.745,Italy
+20,2020-01-06,Financial,188.533,Italy
+21,2020-01-06,Industrial,84.138,Italy
+22,2020-01-06,Technology,24.03,Italy
+23,2020-01-06,Utilities,24.855999999999998,Italy
+24,2020-01-07,Communications,0.5476,Italy
+25,2020-01-07,"Consumer, Cyclical",237.97900000000007,Italy
+26,2020-01-07,"Consumer, Non-cyclical",210.81,Italy
+27,2020-01-07,Energy,18.771,Italy
+28,2020-01-07,Financial,191.3695,Italy
+29,2020-01-07,Industrial,84.849,Italy
+30,2020-01-07,Technology,24.64,Italy
+31,2020-01-07,Utilities,24.954500000000003,Italy
+32,2020-01-08,Communications,0.5317000000000001,Italy
+33,2020-01-08,"Consumer, Cyclical",242.0615,Italy
+34,2020-01-08,"Consumer, Non-cyclical",212.08499999999998,Italy
+35,2020-01-08,Energy,18.701,Italy
+36,2020-01-08,Financial,192.6585,Italy
+37,2020-01-08,Industrial,85.006,Italy
+38,2020-01-08,Technology,24.62,Italy
+39,2020-01-08,Utilities,25.2125,Italy
+40,2020-01-09,Communications,0.5263,Italy
+41,2020-01-09,"Consumer, Cyclical",243.73799999999997,Italy
+42,2020-01-09,"Consumer, Non-cyclical",214.515,Italy
+43,2020-01-09,Energy,18.537,Italy
+44,2020-01-09,Financial,196.45,Italy
+45,2020-01-09,Industrial,85.17999999999999,Italy
+46,2020-01-09,Technology,25.21,Italy
+47,2020-01-09,Utilities,25.333000000000002,Italy
+48,2020-01-10,Communications,0.5247,Italy
+49,2020-01-10,"Consumer, Cyclical",246.20250000000004,Italy
+50,2020-01-10,"Consumer, Non-cyclical",211.925,Italy
+51,2020-01-10,Energy,18.549,Italy
+52,2020-01-10,Financial,196.614,Italy
+53,2020-01-10,Industrial,84.996,Italy
+54,2020-01-10,Technology,24.71,Italy
+55,2020-01-10,Utilities,25.6825,Italy
+56,2020-01-13,Communications,0.5121,Italy
+57,2020-01-13,"Consumer, Cyclical",245.61,Italy
+58,2020-01-13,"Consumer, Non-cyclical",210.505,Italy
+59,2020-01-13,Energy,18.47,Italy
+60,2020-01-13,Financial,196.30499999999998,Italy
+61,2020-01-13,Industrial,84.49,Italy
+62,2020-01-13,Technology,24.919999999999998,Italy
+63,2020-01-13,Utilities,25.533500000000004,Italy
+64,2020-01-14,Communications,0.515,Italy
+65,2020-01-14,"Consumer, Cyclical",246.83499999999998,Italy
+66,2020-01-14,"Consumer, Non-cyclical",210.255,Italy
+67,2020-01-14,Energy,18.274,Italy
+68,2020-01-14,Financial,197.021,Italy
+69,2020-01-14,Industrial,84.18700000000001,Italy
+70,2020-01-14,Technology,25.089999999999996,Italy
+71,2020-01-14,Utilities,25.597500000000004,Italy
+72,2020-01-15,Communications,0.5059,Italy
+73,2020-01-15,"Consumer, Cyclical",246.14,Italy
+74,2020-01-15,"Consumer, Non-cyclical",212.13,Italy
+75,2020-01-15,Energy,18.195,Italy
+76,2020-01-15,Financial,196.60500000000002,Italy
+77,2020-01-15,Industrial,83.372,Italy
+78,2020-01-15,Technology,24.59,Italy
+79,2020-01-15,Utilities,25.737499999999997,Italy
+80,2020-01-16,Communications,0.5099,Italy
+81,2020-01-16,"Consumer, Cyclical",245.03400000000002,Italy
+82,2020-01-16,"Consumer, Non-cyclical",207.89000000000001,Italy
+83,2020-01-16,Energy,18.296,Italy
+84,2020-01-16,Financial,196.9185,Italy
+85,2020-01-16,Industrial,83.36499999999998,Italy
+86,2020-01-16,Technology,24.76,Italy
+87,2020-01-16,Utilities,26.0,Italy
+88,2020-01-17,Communications,0.5123,Italy
+89,2020-01-17,"Consumer, Cyclical",247.7735,Italy
+90,2020-01-17,"Consumer, Non-cyclical",212.185,Italy
+91,2020-01-17,Energy,18.32,Italy
+92,2020-01-17,Financial,197.8085,Italy
+93,2020-01-17,Industrial,85.22,Italy
+94,2020-01-17,Technology,25.15,Italy
+95,2020-01-17,Utilities,26.434,Italy
+96,2020-01-20,Communications,0.5114000000000001,Italy
+97,2020-01-20,"Consumer, Cyclical",246.507,Italy
+98,2020-01-20,"Consumer, Non-cyclical",209.65,Italy
+99,2020-01-20,Energy,18.314,Italy
+100,2020-01-20,Financial,197.2035,Italy
+101,2020-01-20,Industrial,85.40700000000001,Italy
+102,2020-01-20,Technology,25.34,Italy
+103,2020-01-20,Utilities,26.2395,Italy
+104,2020-01-21,Communications,0.5066,Italy
+105,2020-01-21,"Consumer, Cyclical",243.2975,Italy
+106,2020-01-21,"Consumer, Non-cyclical",209.29500000000002,Italy
+107,2020-01-21,Energy,18.141,Italy
+108,2020-01-21,Financial,197.21799999999996,Italy
+109,2020-01-21,Industrial,84.37299999999999,Italy
+110,2020-01-21,Technology,25.1,Italy
+111,2020-01-21,Utilities,25.985500000000002,Italy
+112,2020-01-22,Communications,0.4994,Italy
+113,2020-01-22,"Consumer, Cyclical",245.23200000000003,Italy
+114,2020-01-22,"Consumer, Non-cyclical",212.32,Italy
+115,2020-01-22,Energy,17.809,Italy
+116,2020-01-22,Financial,196.78199999999998,Italy
+117,2020-01-22,Industrial,83.473,Italy
+118,2020-01-22,Technology,25.34,Italy
+119,2020-01-22,Utilities,25.9385,Italy
+120,2020-01-23,Communications,0.49420000000000003,Italy
+121,2020-01-23,"Consumer, Cyclical",241.92150000000004,Italy
+122,2020-01-23,"Consumer, Non-cyclical",210.57,Italy
+123,2020-01-23,Energy,17.616,Italy
+124,2020-01-23,Financial,196.7885,Italy
+125,2020-01-23,Industrial,82.65899999999999,Italy
+126,2020-01-23,Technology,27.0,Italy
+127,2020-01-23,Utilities,26.2635,Italy
+128,2020-01-24,Communications,0.5043,Italy
+129,2020-01-24,"Consumer, Cyclical",243.67299999999997,Italy
+130,2020-01-24,"Consumer, Non-cyclical",212.23,Italy
+131,2020-01-24,Energy,17.57,Italy
+132,2020-01-24,Financial,197.2155,Italy
+133,2020-01-24,Industrial,84.76499999999999,Italy
+134,2020-01-24,Technology,27.75,Italy
+135,2020-01-24,Utilities,26.624999999999996,Italy
+136,2020-01-27,Communications,0.49350000000000005,Italy
+137,2020-01-27,"Consumer, Cyclical",234.55,Italy
+138,2020-01-27,"Consumer, Non-cyclical",208.56,Italy
+139,2020-01-27,Energy,17.186,Italy
+140,2020-01-27,Financial,191.59600000000006,Italy
+141,2020-01-27,Industrial,81.636,Italy
+142,2020-01-27,Technology,26.15,Italy
+143,2020-01-27,Utilities,26.399500000000003,Italy
+144,2020-01-28,Communications,0.5052,Italy
+145,2020-01-28,"Consumer, Cyclical",242.0,Italy
+146,2020-01-28,"Consumer, Non-cyclical",213.7,Italy
+147,2020-01-28,Energy,17.398,Italy
+148,2020-01-28,Financial,195.7135,Italy
+149,2020-01-28,Industrial,83.31699999999998,Italy
+150,2020-01-28,Technology,27.06,Italy
+151,2020-01-28,Utilities,27.265500000000003,Italy
+152,2020-01-29,Communications,0.5169,Italy
+153,2020-01-29,"Consumer, Cyclical",242.7895,Italy
+154,2020-01-29,"Consumer, Non-cyclical",214.855,Italy
+155,2020-01-29,Energy,17.29,Italy
+156,2020-01-29,Financial,197.07200000000003,Italy
+157,2020-01-29,Industrial,84.172,Italy
+158,2020-01-29,Technology,26.9,Italy
+159,2020-01-29,Utilities,27.4985,Italy
+160,2020-01-30,Communications,0.5054000000000001,Italy
+161,2020-01-30,"Consumer, Cyclical",239.04400000000004,Italy
+162,2020-01-30,"Consumer, Non-cyclical",209.38,Italy
+163,2020-01-30,Energy,16.806,Italy
+164,2020-01-30,Financial,190.95250000000001,Italy
+165,2020-01-30,Industrial,81.898,Italy
+166,2020-01-30,Technology,26.45,Italy
+167,2020-01-30,Utilities,27.429000000000002,Italy
+168,2020-01-31,Communications,0.4868,Italy
+169,2020-01-31,"Consumer, Cyclical",235.747,Italy
+170,2020-01-31,"Consumer, Non-cyclical",206.20999999999998,Italy
+171,2020-01-31,Energy,16.406,Italy
+172,2020-01-31,Financial,184.78849999999997,Italy
+173,2020-01-31,Industrial,80.662,Italy
+174,2020-01-31,Technology,25.28,Italy
+175,2020-01-31,Utilities,26.7865,Italy
+176,2020-02-03,Communications,0.482,Italy
+177,2020-02-03,"Consumer, Cyclical",238.02850000000004,Italy
+178,2020-02-03,"Consumer, Non-cyclical",208.29000000000002,Italy
+179,2020-02-03,Energy,16.297,Italy
+180,2020-02-03,Financial,185.84199999999998,Italy
+181,2020-02-03,Industrial,81.747,Italy
+182,2020-02-03,Technology,25.76,Italy
+183,2020-02-03,Utilities,26.950000000000003,Italy
+184,2020-02-04,Communications,0.4918,Italy
+185,2020-02-04,"Consumer, Cyclical",235.92849999999996,Italy
+186,2020-02-04,"Consumer, Non-cyclical",212.525,Italy
+187,2020-02-04,Energy,16.526,Italy
+188,2020-02-04,Financial,190.297,Italy
+189,2020-02-04,Industrial,84.15700000000001,Italy
+190,2020-02-04,Technology,26.67,Italy
+191,2020-02-04,Utilities,27.1725,Italy
+192,2020-02-05,Communications,0.4895000000000001,Italy
+193,2020-02-05,"Consumer, Cyclical",239.51850000000002,Italy
+194,2020-02-05,"Consumer, Non-cyclical",212.47,Italy
+195,2020-02-05,Energy,16.916,Italy
+196,2020-02-05,Financial,193.09699999999998,Italy
+197,2020-02-05,Industrial,85.58,Italy
+198,2020-02-05,Technology,27.39,Italy
+199,2020-02-05,Utilities,27.465999999999998,Italy
+200,2020-02-06,Communications,0.502,Italy
+201,2020-02-06,"Consumer, Cyclical",238.8785,Italy
+202,2020-02-06,"Consumer, Non-cyclical",214.655,Italy
+203,2020-02-06,Energy,16.827,Italy
+204,2020-02-06,Financial,196.54349999999997,Italy
+205,2020-02-06,Industrial,85.87100000000001,Italy
+206,2020-02-06,Technology,27.219999999999995,Italy
+207,2020-02-06,Utilities,27.633999999999997,Italy
+208,2020-02-07,Communications,0.4948,Italy
+209,2020-02-07,"Consumer, Cyclical",236.784,Italy
+210,2020-02-07,"Consumer, Non-cyclical",213.8,Italy
+211,2020-02-07,Energy,16.656,Italy
+212,2020-02-07,Financial,196.37399999999997,Italy
+213,2020-02-07,Industrial,85.479,Italy
+214,2020-02-07,Technology,27.219999999999995,Italy
+215,2020-02-07,Utilities,27.621500000000005,Italy
+216,2020-02-10,Communications,0.49060000000000004,Italy
+217,2020-02-10,"Consumer, Cyclical",237.4515,Italy
+218,2020-02-10,"Consumer, Non-cyclical",214.895,Italy
+219,2020-02-10,Energy,16.479,Italy
+220,2020-02-10,Financial,200.71000000000004,Italy
+221,2020-02-10,Industrial,85.85900000000001,Italy
+222,2020-02-10,Technology,27.55,Italy
+223,2020-02-10,Utilities,27.630499999999998,Italy
+224,2020-02-11,Communications,0.4984,Italy
+225,2020-02-11,"Consumer, Cyclical",239.52399999999997,Italy
+226,2020-02-11,"Consumer, Non-cyclical",217.12,Italy
+227,2020-02-11,Energy,16.727,Italy
+228,2020-02-11,Financial,201.26850000000005,Italy
+229,2020-02-11,Industrial,87.019,Italy
+230,2020-02-11,Technology,28.26,Italy
+231,2020-02-11,Utilities,27.8645,Italy
+232,2020-02-12,Communications,0.5065000000000001,Italy
+233,2020-02-12,"Consumer, Cyclical",244.86749999999998,Italy
+234,2020-02-12,"Consumer, Non-cyclical",216.27,Italy
+235,2020-02-12,Energy,17.0,Italy
+236,2020-02-12,Financial,204.2945,Italy
+237,2020-02-12,Industrial,88.44800000000001,Italy
+238,2020-02-12,Technology,28.58,Italy
+239,2020-02-12,Utilities,27.627499999999994,Italy
+240,2020-02-13,Communications,0.525,Italy
+241,2020-02-13,"Consumer, Cyclical",242.64350000000002,Italy
+242,2020-02-13,"Consumer, Non-cyclical",216.13,Italy
+243,2020-02-13,Energy,16.826,Italy
+244,2020-02-13,Financial,204.67399999999998,Italy
+245,2020-02-13,Industrial,87.74099999999999,Italy
+246,2020-02-13,Technology,29.35,Italy
+247,2020-02-13,Utilities,27.646,Italy
+248,2020-02-14,Communications,0.5177,Italy
+249,2020-02-14,"Consumer, Cyclical",242.715,Italy
+250,2020-02-14,"Consumer, Non-cyclical",217.73999999999998,Italy
+251,2020-02-14,Energy,16.683,Italy
+252,2020-02-14,Financial,204.66049999999998,Italy
+253,2020-02-14,Industrial,87.59299999999999,Italy
+254,2020-02-14,Technology,28.95,Italy
+255,2020-02-14,Utilities,27.667,Italy
+256,2020-02-17,Communications,0.5201,Italy
+257,2020-02-17,"Consumer, Cyclical",247.239,Italy
+258,2020-02-17,"Consumer, Non-cyclical",219.35,Italy
+259,2020-02-17,Energy,16.835,Italy
+260,2020-02-17,Financial,206.90800000000002,Italy
+261,2020-02-17,Industrial,88.008,Italy
+262,2020-02-17,Technology,28.18,Italy
+263,2020-02-17,Utilities,27.979999999999993,Italy
+264,2020-02-18,Communications,0.5194,Italy
+265,2020-02-18,"Consumer, Cyclical",247.77199999999996,Italy
+266,2020-02-18,"Consumer, Non-cyclical",223.73500000000004,Italy
+267,2020-02-18,Energy,16.661,Italy
+268,2020-02-18,Financial,206.536,Italy
+269,2020-02-18,Industrial,87.41399999999999,Italy
+270,2020-02-18,Technology,27.84,Italy
+271,2020-02-18,Utilities,28.258000000000003,Italy
+272,2020-02-19,Communications,0.5219,Italy
+273,2020-02-19,"Consumer, Cyclical",251.847,Italy
+274,2020-02-19,"Consumer, Non-cyclical",224.76999999999998,Italy
+275,2020-02-19,Energy,16.728,Italy
+276,2020-02-19,Financial,208.05550000000002,Italy
+277,2020-02-19,Industrial,88.625,Italy
+278,2020-02-19,Technology,29.12,Italy
+279,2020-02-19,Utilities,28.642000000000003,Italy
+280,2020-02-20,Communications,0.5147,Italy
+281,2020-02-20,"Consumer, Cyclical",247.50400000000002,Italy
+282,2020-02-20,"Consumer, Non-cyclical",218.70999999999998,Italy
+283,2020-02-20,Energy,16.732,Italy
+284,2020-02-20,Financial,203.826,Italy
+285,2020-02-20,Industrial,87.589,Italy
+286,2020-02-20,Technology,28.7,Italy
+287,2020-02-20,Utilities,28.141,Italy
+288,2020-02-21,Communications,0.5342,Italy
+289,2020-02-21,"Consumer, Cyclical",241.25400000000005,Italy
+290,2020-02-21,"Consumer, Non-cyclical",216.79,Italy
+291,2020-02-21,Energy,16.519,Italy
+292,2020-02-21,Financial,198.93550000000002,Italy
+293,2020-02-21,Industrial,85.585,Italy
+294,2020-02-21,Technology,28.29,Italy
+295,2020-02-21,Utilities,28.092499999999998,Italy
+296,2020-02-24,Communications,0.513,Italy
+297,2020-02-24,"Consumer, Cyclical",227.375,Italy
+298,2020-02-24,"Consumer, Non-cyclical",205.48000000000002,Italy
+299,2020-02-24,Energy,15.635,Italy
+300,2020-02-24,Financial,186.56449999999998,Italy
+301,2020-02-24,Industrial,80.381,Italy
+302,2020-02-24,Technology,26.29,Italy
+303,2020-02-24,Utilities,26.7975,Italy
+304,2020-02-25,Communications,0.5104000000000001,Italy
+305,2020-02-25,"Consumer, Cyclical",226.86649999999995,Italy
+306,2020-02-25,"Consumer, Non-cyclical",199.92000000000002,Italy
+307,2020-02-25,Energy,15.402999999999999,Italy
+308,2020-02-25,Financial,184.44400000000005,Italy
+309,2020-02-25,Industrial,78.93900000000001,Italy
+310,2020-02-25,Technology,26.09,Italy
+311,2020-02-25,Utilities,26.314,Italy
+312,2020-02-26,Communications,0.5283,Italy
+313,2020-02-26,"Consumer, Cyclical",227.52349999999998,Italy
+314,2020-02-26,"Consumer, Non-cyclical",202.475,Italy
+315,2020-02-26,Energy,15.66,Italy
+316,2020-02-26,Financial,186.86399999999998,Italy
+317,2020-02-26,Industrial,80.23,Italy
+318,2020-02-26,Technology,26.69,Italy
+319,2020-02-26,Utilities,26.651,Italy
+320,2020-02-27,Communications,0.527,Italy
+321,2020-02-27,"Consumer, Cyclical",220.18519999999998,Italy
+322,2020-02-27,"Consumer, Non-cyclical",199.25,Italy
+323,2020-02-27,Energy,15.222999999999999,Italy
+324,2020-02-27,Financial,179.9895,Italy
+325,2020-02-27,Industrial,77.81599999999999,Italy
+326,2020-02-27,Technology,24.86,Italy
+327,2020-02-27,Utilities,26.418,Italy
+328,2020-02-28,Communications,0.5001,Italy
+329,2020-02-28,"Consumer, Cyclical",216.575,Italy
+330,2020-02-28,"Consumer, Non-cyclical",193.865,Italy
+331,2020-02-28,Energy,14.573,Italy
+332,2020-02-28,Financial,174.84400000000002,Italy
+333,2020-02-28,Industrial,76.51499999999999,Italy
+334,2020-02-28,Technology,24.380000000000003,Italy
+335,2020-02-28,Utilities,25.143500000000003,Italy
+336,2020-03-02,Communications,0.4864,Italy
+337,2020-03-02,"Consumer, Cyclical",213.7518,Italy
+338,2020-03-02,"Consumer, Non-cyclical",191.945,Italy
+339,2020-03-02,Energy,14.426,Italy
+340,2020-03-02,Financial,169.8755,Italy
+341,2020-03-02,Industrial,73.567,Italy
+342,2020-03-02,Technology,24.31,Italy
+343,2020-03-02,Utilities,25.328500000000002,Italy
+344,2020-03-03,Communications,0.4779000000000001,Italy
+345,2020-03-03,"Consumer, Cyclical",216.08980000000003,Italy
+346,2020-03-03,"Consumer, Non-cyclical",196.555,Italy
+347,2020-03-03,Energy,14.379999999999999,Italy
+348,2020-03-03,Financial,169.948,Italy
+349,2020-03-03,Industrial,74.773,Italy
+350,2020-03-03,Technology,24.98,Italy
+351,2020-03-03,Utilities,25.7425,Italy
+352,2020-03-04,Communications,0.48090000000000005,Italy
+353,2020-03-04,"Consumer, Cyclical",215.03859999999995,Italy
+354,2020-03-04,"Consumer, Non-cyclical",195.375,Italy
+355,2020-03-04,Energy,14.328999999999999,Italy
+356,2020-03-04,Financial,168.1645,Italy
+357,2020-03-04,Industrial,73.806,Italy
+358,2020-03-04,Technology,24.71,Italy
+359,2020-03-04,Utilities,26.883,Italy
+360,2020-03-05,Communications,0.45840000000000003,Italy
+361,2020-03-05,"Consumer, Cyclical",210.89400000000003,Italy
+362,2020-03-05,"Consumer, Non-cyclical",193.925,Italy
+363,2020-03-05,Energy,13.982,Italy
+364,2020-03-05,Financial,165.3355,Italy
+365,2020-03-05,Industrial,72.721,Italy
+366,2020-03-05,Technology,24.43,Italy
+367,2020-03-05,Utilities,26.6765,Italy
+368,2020-03-06,Communications,0.43210000000000004,Italy
+369,2020-03-06,"Consumer, Cyclical",204.8188,Italy
+370,2020-03-06,"Consumer, Non-cyclical",191.91,Italy
+371,2020-03-06,Energy,13.067000000000002,Italy
+372,2020-03-06,Financial,160.4982,Italy
+373,2020-03-06,Industrial,70.04,Italy
+374,2020-03-06,Technology,23.29,Italy
+375,2020-03-06,Utilities,25.5055,Italy
+376,2020-03-09,Communications,0.3907,Italy
+377,2020-03-09,"Consumer, Cyclical",188.40279999999998,Italy
+378,2020-03-09,"Consumer, Non-cyclical",182.42499999999998,Italy
+379,2020-03-09,Energy,10.324,Italy
+380,2020-03-09,Financial,145.04450000000003,Italy
+381,2020-03-09,Industrial,61.58099999999999,Italy
+382,2020-03-09,Technology,20.93,Italy
+383,2020-03-09,Utilities,23.2045,Italy
+384,2020-03-10,Communications,0.3672,Italy
+385,2020-03-10,"Consumer, Cyclical",188.14980000000003,Italy
+386,2020-03-10,"Consumer, Non-cyclical",180.46,Italy
+387,2020-03-10,Energy,10.389,Italy
+388,2020-03-10,Financial,138.32129999999998,Italy
+389,2020-03-10,Industrial,60.126,Italy
+390,2020-03-10,Technology,21.1,Italy
+391,2020-03-10,Utilities,22.0565,Italy
+392,2020-03-11,Communications,0.3817000000000001,Italy
+393,2020-03-11,"Consumer, Cyclical",191.33939999999998,Italy
+394,2020-03-11,"Consumer, Non-cyclical",187.63,Italy
+395,2020-03-11,Energy,10.245000000000001,Italy
+396,2020-03-11,Financial,138.83020000000005,Italy
+397,2020-03-11,Industrial,59.824999999999996,Italy
+398,2020-03-11,Technology,20.68,Italy
+399,2020-03-11,Utilities,22.003,Italy
+400,2020-03-12,Communications,0.31120000000000003,Italy
+401,2020-03-12,"Consumer, Cyclical",169.965,Italy
+402,2020-03-12,"Consumer, Non-cyclical",163.95999999999998,Italy
+403,2020-03-12,Energy,8.5425,Italy
+404,2020-03-12,Financial,119.6073,Italy
+405,2020-03-12,Industrial,50.171,Italy
+406,2020-03-12,Technology,17.38,Italy
+407,2020-03-12,Utilities,18.2365,Italy

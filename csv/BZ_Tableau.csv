@@ -1,0 +1,442 @@
+,Refdate,INDUSTRY_SECTOR,Index_Value,Country
+0,2020-01-02,Basic Materials,180.35,Brazil
+1,2020-01-02,Communications,178.15000000000003,Brazil
+2,2020-01-02,"Consumer, Cyclical",481.56,Brazil
+3,2020-01-02,"Consumer, Non-cyclical",527.43,Brazil
+4,2020-01-02,Energy,191.54999999999998,Brazil
+5,2020-01-02,Financial,667.1999999999999,Brazil
+6,2020-01-02,Industrial,100.60000000000002,Brazil
+7,2020-01-02,Technology,69.15,Brazil
+8,2020-01-02,Utilities,279.74,Brazil
+9,2020-01-03,Basic Materials,180.63,Brazil
+10,2020-01-03,Communications,177.56,Brazil
+11,2020-01-03,"Consumer, Cyclical",475.17999999999995,Brazil
+12,2020-01-03,"Consumer, Non-cyclical",532.9699999999999,Brazil
+13,2020-01-03,Energy,191.39999999999998,Brazil
+14,2020-01-03,Financial,669.19,Brazil
+15,2020-01-03,Industrial,100.22,Brazil
+16,2020-01-03,Technology,70.62,Brazil
+17,2020-01-03,Utilities,277.97999999999996,Brazil
+18,2020-01-06,Basic Materials,181.25,Brazil
+19,2020-01-06,Communications,174.95,Brazil
+20,2020-01-06,"Consumer, Cyclical",466.50999999999993,Brazil
+21,2020-01-06,"Consumer, Non-cyclical",526.7399999999999,Brazil
+22,2020-01-06,Energy,190.29000000000002,Brazil
+23,2020-01-06,Financial,661.7700000000001,Brazil
+24,2020-01-06,Industrial,99.28999999999999,Brazil
+25,2020-01-06,Technology,69.01,Brazil
+26,2020-01-06,Utilities,276.95,Brazil
+27,2020-01-07,Basic Materials,181.76999999999998,Brazil
+28,2020-01-07,Communications,175.73000000000002,Brazil
+29,2020-01-07,"Consumer, Cyclical",465.66999999999996,Brazil
+30,2020-01-07,"Consumer, Non-cyclical",522.7099999999999,Brazil
+31,2020-01-07,Energy,191.54,Brazil
+32,2020-01-07,Financial,660.6899999999999,Brazil
+33,2020-01-07,Industrial,100.08000000000001,Brazil
+34,2020-01-07,Technology,69.3,Brazil
+35,2020-01-07,Utilities,277.62,Brazil
+36,2020-01-08,Basic Materials,185.33999999999997,Brazil
+37,2020-01-08,Communications,176.81,Brazil
+38,2020-01-08,"Consumer, Cyclical",468.57,Brazil
+39,2020-01-08,"Consumer, Non-cyclical",521.88,Brazil
+40,2020-01-08,Energy,189.26,Brazil
+41,2020-01-08,Financial,655.8899999999999,Brazil
+42,2020-01-08,Industrial,98.97,Brazil
+43,2020-01-08,Technology,68.37,Brazil
+44,2020-01-08,Utilities,277.05000000000007,Brazil
+45,2020-01-09,Basic Materials,184.9,Brazil
+46,2020-01-09,Communications,180.73000000000002,Brazil
+47,2020-01-09,"Consumer, Cyclical",474.63,Brazil
+48,2020-01-09,"Consumer, Non-cyclical",525.05,Brazil
+49,2020-01-09,Energy,187.85000000000002,Brazil
+50,2020-01-09,Financial,655.2799999999999,Brazil
+51,2020-01-09,Industrial,98.88000000000001,Brazil
+52,2020-01-09,Technology,69.5,Brazil
+53,2020-01-09,Utilities,279.55,Brazil
+54,2020-01-10,Basic Materials,185.09000000000003,Brazil
+55,2020-01-10,Communications,180.65,Brazil
+56,2020-01-10,"Consumer, Cyclical",470.65000000000003,Brazil
+57,2020-01-10,"Consumer, Non-cyclical",523.79,Brazil
+58,2020-01-10,Energy,188.71,Brazil
+59,2020-01-10,Financial,649.17,Brazil
+60,2020-01-10,Industrial,99.29999999999998,Brazil
+61,2020-01-10,Technology,68.98,Brazil
+62,2020-01-10,Utilities,282.40000000000003,Brazil
+63,2020-01-13,Basic Materials,190.85,Brazil
+64,2020-01-13,Communications,184.79,Brazil
+65,2020-01-13,"Consumer, Cyclical",480.43000000000006,Brazil
+66,2020-01-13,"Consumer, Non-cyclical",532.54,Brazil
+67,2020-01-13,Energy,191.44999999999996,Brazil
+68,2020-01-13,Financial,655.61,Brazil
+69,2020-01-13,Industrial,101.17999999999999,Brazil
+70,2020-01-13,Technology,69.65,Brazil
+71,2020-01-13,Utilities,286.88,Brazil
+72,2020-01-14,Basic Materials,190.14000000000004,Brazil
+73,2020-01-14,Communications,184.08999999999997,Brazil
+74,2020-01-14,"Consumer, Cyclical",485.3300000000001,Brazil
+75,2020-01-14,"Consumer, Non-cyclical",539.0699999999999,Brazil
+76,2020-01-14,Energy,193.54000000000002,Brazil
+77,2020-01-14,Financial,656.79,Brazil
+78,2020-01-14,Industrial,102.25000000000001,Brazil
+79,2020-01-14,Technology,69.65,Brazil
+80,2020-01-14,Utilities,288.4,Brazil
+81,2020-01-15,Basic Materials,189.31,Brazil
+82,2020-01-15,Communications,184.51,Brazil
+83,2020-01-15,"Consumer, Cyclical",480.77,Brazil
+84,2020-01-15,"Consumer, Non-cyclical",537.27,Brazil
+85,2020-01-15,Energy,190.52,Brazil
+86,2020-01-15,Financial,649.76,Brazil
+87,2020-01-15,Industrial,100.83,Brazil
+88,2020-01-15,Technology,69.82,Brazil
+89,2020-01-15,Utilities,286.26,Brazil
+90,2020-01-16,Basic Materials,189.48999999999998,Brazil
+91,2020-01-16,Communications,185.89999999999998,Brazil
+92,2020-01-16,"Consumer, Cyclical",480.94,Brazil
+93,2020-01-16,"Consumer, Non-cyclical",539.96,Brazil
+94,2020-01-16,Energy,191.51999999999998,Brazil
+95,2020-01-16,Financial,651.87,Brazil
+96,2020-01-16,Industrial,100.47,Brazil
+97,2020-01-16,Technology,69.83,Brazil
+98,2020-01-16,Utilities,287.84999999999997,Brazil
+99,2020-01-17,Basic Materials,191.57999999999998,Brazil
+100,2020-01-17,Communications,187.80999999999997,Brazil
+101,2020-01-17,"Consumer, Cyclical",489.11,Brazil
+102,2020-01-17,"Consumer, Non-cyclical",545.5200000000001,Brazil
+103,2020-01-17,Energy,194.72,Brazil
+104,2020-01-17,Financial,664.64,Brazil
+105,2020-01-17,Industrial,101.41,Brazil
+106,2020-01-17,Technology,72.36,Brazil
+107,2020-01-17,Utilities,288.99,Brazil
+108,2020-01-20,Basic Materials,192.70999999999998,Brazil
+109,2020-01-20,Communications,192.76000000000002,Brazil
+110,2020-01-20,"Consumer, Cyclical",495.4000000000001,Brazil
+111,2020-01-20,"Consumer, Non-cyclical",553.5299999999999,Brazil
+112,2020-01-20,Energy,197.41,Brazil
+113,2020-01-20,Financial,666.22,Brazil
+114,2020-01-20,Industrial,102.91000000000001,Brazil
+115,2020-01-20,Technology,72.88,Brazil
+116,2020-01-20,Utilities,290.07,Brazil
+117,2020-01-21,Basic Materials,190.79,Brazil
+118,2020-01-21,Communications,193.21,Brazil
+119,2020-01-21,"Consumer, Cyclical",491.78999999999996,Brazil
+120,2020-01-21,"Consumer, Non-cyclical",549.59,Brazil
+121,2020-01-21,Energy,193.76,Brazil
+122,2020-01-21,Financial,655.09,Brazil
+123,2020-01-21,Industrial,101.25999999999999,Brazil
+124,2020-01-21,Technology,72.2,Brazil
+125,2020-01-21,Utilities,288.53,Brazil
+126,2020-01-22,Basic Materials,196.85,Brazil
+127,2020-01-22,Communications,194.25,Brazil
+128,2020-01-22,"Consumer, Cyclical",493.82000000000005,Brazil
+129,2020-01-22,"Consumer, Non-cyclical",553.0,Brazil
+130,2020-01-22,Energy,197.15999999999997,Brazil
+131,2020-01-22,Financial,664.78,Brazil
+132,2020-01-22,Industrial,104.12,Brazil
+133,2020-01-22,Technology,74.08,Brazil
+134,2020-01-22,Utilities,293.18,Brazil
+135,2020-01-23,Basic Materials,198.33000000000004,Brazil
+136,2020-01-23,Communications,193.63,Brazil
+137,2020-01-23,"Consumer, Cyclical",498.12000000000006,Brazil
+138,2020-01-23,"Consumer, Non-cyclical",556.08,Brazil
+139,2020-01-23,Energy,198.82,Brazil
+140,2020-01-23,Financial,673.7099999999999,Brazil
+141,2020-01-23,Industrial,105.21,Brazil
+142,2020-01-23,Technology,74.87,Brazil
+143,2020-01-23,Utilities,295.35,Brazil
+144,2020-01-24,Basic Materials,193.07999999999998,Brazil
+145,2020-01-24,Communications,190.80999999999997,Brazil
+146,2020-01-24,"Consumer, Cyclical",493.6799999999999,Brazil
+147,2020-01-24,"Consumer, Non-cyclical",550.75,Brazil
+148,2020-01-24,Energy,198.1,Brazil
+149,2020-01-24,Financial,665.28,Brazil
+150,2020-01-24,Industrial,106.07,Brazil
+151,2020-01-24,Technology,73.46,Brazil
+152,2020-01-24,Utilities,294.44,Brazil
+153,2020-01-27,Basic Materials,180.01000000000002,Brazil
+154,2020-01-27,Communications,188.18,Brazil
+155,2020-01-27,"Consumer, Cyclical",479.53,Brazil
+156,2020-01-27,"Consumer, Non-cyclical",532.9,Brazil
+157,2020-01-27,Energy,191.74,Brazil
+158,2020-01-27,Financial,643.51,Brazil
+159,2020-01-27,Industrial,103.82000000000001,Brazil
+160,2020-01-27,Technology,72.26,Brazil
+161,2020-01-27,Utilities,287.84000000000003,Brazil
+162,2020-01-28,Basic Materials,180.76000000000002,Brazil
+163,2020-01-28,Communications,192.43,Brazil
+164,2020-01-28,"Consumer, Cyclical",491.59999999999997,Brazil
+165,2020-01-28,"Consumer, Non-cyclical",544.4200000000001,Brazil
+166,2020-01-28,Energy,195.6,Brazil
+167,2020-01-28,Financial,653.57,Brazil
+168,2020-01-28,Industrial,104.94,Brazil
+169,2020-01-28,Technology,74.55,Brazil
+170,2020-01-28,Utilities,296.21999999999997,Brazil
+171,2020-01-29,Basic Materials,177.67,Brazil
+172,2020-01-29,Communications,191.93,Brazil
+173,2020-01-29,"Consumer, Cyclical",491.58,Brazil
+174,2020-01-29,"Consumer, Non-cyclical",539.0,Brazil
+175,2020-01-29,Energy,193.95999999999998,Brazil
+176,2020-01-29,Financial,648.3199999999999,Brazil
+177,2020-01-29,Industrial,105.37,Brazil
+178,2020-01-29,Technology,73.5,Brazil
+179,2020-01-29,Utilities,292.43,Brazil
+180,2020-01-30,Basic Materials,177.63,Brazil
+181,2020-01-30,Communications,189.26,Brazil
+182,2020-01-30,"Consumer, Cyclical",484.43,Brazil
+183,2020-01-30,"Consumer, Non-cyclical",536.76,Brazil
+184,2020-01-30,Energy,195.54,Brazil
+185,2020-01-30,Financial,649.28,Brazil
+186,2020-01-30,Industrial,103.47999999999999,Brazil
+187,2020-01-30,Technology,72.7,Brazil
+188,2020-01-30,Utilities,289.23,Brazil
+189,2020-01-31,Basic Materials,173.6,Brazil
+190,2020-01-31,Communications,185.82,Brazil
+191,2020-01-31,"Consumer, Cyclical",477.3099999999999,Brazil
+192,2020-01-31,"Consumer, Non-cyclical",533.8399999999999,Brazil
+193,2020-01-31,Energy,192.56,Brazil
+194,2020-01-31,Financial,641.5299999999999,Brazil
+195,2020-01-31,Industrial,101.5,Brazil
+196,2020-01-31,Technology,74.65,Brazil
+197,2020-01-31,Utilities,285.24,Brazil
+198,2020-02-03,Basic Materials,177.01999999999998,Brazil
+199,2020-02-03,Communications,187.36,Brazil
+200,2020-02-03,"Consumer, Cyclical",479.18000000000006,Brazil
+201,2020-02-03,"Consumer, Non-cyclical",548.1899999999999,Brazil
+202,2020-02-03,Energy,195.14,Brazil
+203,2020-02-03,Financial,643.28,Brazil
+204,2020-02-03,Industrial,102.56,Brazil
+205,2020-02-03,Technology,78.42,Brazil
+206,2020-02-03,Utilities,287.65,Brazil
+207,2020-02-04,Basic Materials,179.11,Brazil
+208,2020-02-04,Communications,190.46,Brazil
+209,2020-02-04,"Consumer, Cyclical",483.68,Brazil
+210,2020-02-04,"Consumer, Non-cyclical",552.8100000000001,Brazil
+211,2020-02-04,Energy,195.14,Brazil
+212,2020-02-04,Financial,645.39,Brazil
+213,2020-02-04,Industrial,103.46000000000001,Brazil
+214,2020-02-04,Technology,78.0,Brazil
+215,2020-02-04,Utilities,289.92,Brazil
+216,2020-02-05,Basic Materials,180.91000000000003,Brazil
+217,2020-02-05,Communications,190.73000000000002,Brazil
+218,2020-02-05,"Consumer, Cyclical",483.4199999999999,Brazil
+219,2020-02-05,"Consumer, Non-cyclical",549.38,Brazil
+220,2020-02-05,Energy,196.17000000000002,Brazil
+221,2020-02-05,Financial,652.75,Brazil
+222,2020-02-05,Industrial,104.38999999999999,Brazil
+223,2020-02-05,Technology,78.25,Brazil
+224,2020-02-05,Utilities,291.68,Brazil
+225,2020-02-06,Basic Materials,178.31,Brazil
+226,2020-02-06,Communications,187.45,Brazil
+227,2020-02-06,"Consumer, Cyclical",474.20000000000005,Brazil
+228,2020-02-06,"Consumer, Non-cyclical",540.44,Brazil
+229,2020-02-06,Energy,195.82999999999998,Brazil
+230,2020-02-06,Financial,645.9899999999999,Brazil
+231,2020-02-06,Industrial,106.14000000000003,Brazil
+232,2020-02-06,Technology,76.67,Brazil
+233,2020-02-06,Utilities,285.38,Brazil
+234,2020-02-07,Basic Materials,173.58,Brazil
+235,2020-02-07,Communications,182.75,Brazil
+236,2020-02-07,"Consumer, Cyclical",463.82,Brazil
+237,2020-02-07,"Consumer, Non-cyclical",529.07,Brazil
+238,2020-02-07,Energy,192.47000000000003,Brazil
+239,2020-02-07,Financial,640.62,Brazil
+240,2020-02-07,Industrial,103.24999999999999,Brazil
+241,2020-02-07,Technology,75.46,Brazil
+242,2020-02-07,Utilities,280.04999999999995,Brazil
+243,2020-02-10,Basic Materials,169.37999999999997,Brazil
+244,2020-02-10,Communications,179.46,Brazil
+245,2020-02-10,"Consumer, Cyclical",457.15999999999997,Brazil
+246,2020-02-10,"Consumer, Non-cyclical",518.74,Brazil
+247,2020-02-10,Energy,192.3,Brazil
+248,2020-02-10,Financial,626.2700000000001,Brazil
+249,2020-02-10,Industrial,102.92,Brazil
+250,2020-02-10,Technology,74.53,Brazil
+251,2020-02-10,Utilities,274.26,Brazil
+252,2020-02-11,Basic Materials,176.26,Brazil
+253,2020-02-11,Communications,185.67,Brazil
+254,2020-02-11,"Consumer, Cyclical",469.6300000000001,Brazil
+255,2020-02-11,"Consumer, Non-cyclical",533.46,Brazil
+256,2020-02-11,Energy,200.38999999999996,Brazil
+257,2020-02-11,Financial,644.81,Brazil
+258,2020-02-11,Industrial,106.52000000000001,Brazil
+259,2020-02-11,Technology,75.21,Brazil
+260,2020-02-11,Utilities,279.16,Brazil
+261,2020-02-12,Basic Materials,179.05999999999995,Brazil
+262,2020-02-12,Communications,187.41000000000003,Brazil
+263,2020-02-12,"Consumer, Cyclical",474.2400000000001,Brazil
+264,2020-02-12,"Consumer, Non-cyclical",543.48,Brazil
+265,2020-02-12,Energy,202.70999999999995,Brazil
+266,2020-02-12,Financial,651.11,Brazil
+267,2020-02-12,Industrial,109.85,Brazil
+268,2020-02-12,Technology,78.4,Brazil
+269,2020-02-12,Utilities,282.68999999999994,Brazil
+270,2020-02-13,Basic Materials,178.79999999999998,Brazil
+271,2020-02-13,Communications,188.8,Brazil
+272,2020-02-13,"Consumer, Cyclical",473.2799999999999,Brazil
+273,2020-02-13,"Consumer, Non-cyclical",539.7800000000001,Brazil
+274,2020-02-13,Energy,200.53000000000003,Brazil
+275,2020-02-13,Financial,645.1699999999998,Brazil
+276,2020-02-13,Industrial,110.22000000000001,Brazil
+277,2020-02-13,Technology,78.1,Brazil
+278,2020-02-13,Utilities,281.26,Brazil
+279,2020-02-14,Basic Materials,174.47,Brazil
+280,2020-02-14,Communications,184.36,Brazil
+281,2020-02-14,"Consumer, Cyclical",471.71,Brazil
+282,2020-02-14,"Consumer, Non-cyclical",538.61,Brazil
+283,2020-02-14,Energy,198.36,Brazil
+284,2020-02-14,Financial,635.66,Brazil
+285,2020-02-14,Industrial,108.49000000000001,Brazil
+286,2020-02-14,Technology,77.7,Brazil
+287,2020-02-14,Utilities,282.34,Brazil
+288,2020-02-17,Basic Materials,177.89,Brazil
+289,2020-02-17,Communications,185.44000000000003,Brazil
+290,2020-02-17,"Consumer, Cyclical",475.22,Brazil
+291,2020-02-17,"Consumer, Non-cyclical",543.14,Brazil
+292,2020-02-17,Energy,197.25,Brazil
+293,2020-02-17,Financial,636.79,Brazil
+294,2020-02-17,Industrial,108.33000000000001,Brazil
+295,2020-02-17,Technology,83.72,Brazil
+296,2020-02-17,Utilities,285.01000000000005,Brazil
+297,2020-02-18,Basic Materials,177.50000000000003,Brazil
+298,2020-02-18,Communications,184.32999999999998,Brazil
+299,2020-02-18,"Consumer, Cyclical",471.53000000000003,Brazil
+300,2020-02-18,"Consumer, Non-cyclical",538.9699999999999,Brazil
+301,2020-02-18,Energy,195.6,Brazil
+302,2020-02-18,Financial,634.22,Brazil
+303,2020-02-18,Industrial,107.66,Brazil
+304,2020-02-18,Technology,82.6,Brazil
+305,2020-02-18,Utilities,288.78,Brazil
+306,2020-02-19,Basic Materials,178.70000000000002,Brazil
+307,2020-02-19,Communications,186.14,Brazil
+308,2020-02-19,"Consumer, Cyclical",471.87000000000006,Brazil
+309,2020-02-19,"Consumer, Non-cyclical",545.45,Brazil
+310,2020-02-19,Energy,198.0,Brazil
+311,2020-02-19,Financial,642.84,Brazil
+312,2020-02-19,Industrial,112.93,Brazil
+313,2020-02-19,Technology,82.25,Brazil
+314,2020-02-19,Utilities,292.7,Brazil
+315,2020-02-20,Basic Materials,175.57000000000002,Brazil
+316,2020-02-20,Communications,182.39,Brazil
+317,2020-02-20,"Consumer, Cyclical",463.26,Brazil
+318,2020-02-20,"Consumer, Non-cyclical",536.75,Brazil
+319,2020-02-20,Energy,193.19,Brazil
+320,2020-02-20,Financial,631.39,Brazil
+321,2020-02-20,Industrial,112.33000000000001,Brazil
+322,2020-02-20,Technology,82.24,Brazil
+323,2020-02-20,Utilities,285.82,Brazil
+324,2020-02-21,Basic Materials,172.63,Brazil
+325,2020-02-21,Communications,183.92000000000002,Brazil
+326,2020-02-21,"Consumer, Cyclical",466.8499999999999,Brazil
+327,2020-02-21,"Consumer, Non-cyclical",530.9100000000001,Brazil
+328,2020-02-21,Energy,190.13,Brazil
+329,2020-02-21,Financial,626.0100000000001,Brazil
+330,2020-02-21,Industrial,115.04999999999998,Brazil
+331,2020-02-21,Technology,83.03,Brazil
+332,2020-02-21,Utilities,286.9700000000001,Brazil
+333,2020-02-26,Basic Materials,157.84,Brazil
+334,2020-02-26,Communications,170.54000000000002,Brazil
+335,2020-02-26,"Consumer, Cyclical",433.43,Brazil
+336,2020-02-26,"Consumer, Non-cyclical",497.07,Brazil
+337,2020-02-26,Energy,176.4,Brazil
+338,2020-02-26,Financial,583.9100000000001,Brazil
+339,2020-02-26,Industrial,106.64999999999999,Brazil
+340,2020-02-26,Technology,78.4,Brazil
+341,2020-02-26,Utilities,269.82,Brazil
+342,2020-02-27,Basic Materials,154.47,Brazil
+343,2020-02-27,Communications,165.62,Brazil
+344,2020-02-27,"Consumer, Cyclical",412.09,Brazil
+345,2020-02-27,"Consumer, Non-cyclical",483.34,Brazil
+346,2020-02-27,Energy,169.67000000000002,Brazil
+347,2020-02-27,Financial,574.38,Brazil
+348,2020-02-27,Industrial,101.84,Brazil
+349,2020-02-27,Technology,73.64,Brazil
+350,2020-02-27,Utilities,262.47999999999996,Brazil
+351,2020-02-28,Basic Materials,153.56999999999996,Brazil
+352,2020-02-28,Communications,164.44,Brazil
+353,2020-02-28,"Consumer, Cyclical",422.62,Brazil
+354,2020-02-28,"Consumer, Non-cyclical",489.0799999999999,Brazil
+355,2020-02-28,Energy,170.83999999999997,Brazil
+356,2020-02-28,Financial,583.18,Brazil
+357,2020-02-28,Industrial,100.47999999999999,Brazil
+358,2020-02-28,Technology,71.01,Brazil
+359,2020-02-28,Utilities,265.7,Brazil
+360,2020-03-02,Basic Materials,159.85999999999999,Brazil
+361,2020-03-02,Communications,168.23000000000002,Brazil
+362,2020-03-02,"Consumer, Cyclical",429.21999999999997,Brazil
+363,2020-03-02,"Consumer, Non-cyclical",498.8299999999999,Brazil
+364,2020-03-02,Energy,176.41,Brazil
+365,2020-03-02,Financial,588.22,Brazil
+366,2020-03-02,Industrial,106.18,Brazil
+367,2020-03-02,Technology,74.18,Brazil
+368,2020-03-02,Utilities,271.37,Brazil
+369,2020-03-03,Basic Materials,160.45999999999995,Brazil
+370,2020-03-03,Communications,171.27999999999997,Brazil
+371,2020-03-03,"Consumer, Cyclical",427.46999999999997,Brazil
+372,2020-03-03,"Consumer, Non-cyclical",499.01000000000005,Brazil
+373,2020-03-03,Energy,175.76,Brazil
+374,2020-03-03,Financial,573.08,Brazil
+375,2020-03-03,Industrial,106.66,Brazil
+376,2020-03-03,Technology,73.29,Brazil
+377,2020-03-03,Utilities,269.87,Brazil
+378,2020-03-04,Basic Materials,169.26,Brazil
+379,2020-03-04,Communications,176.48000000000002,Brazil
+380,2020-03-04,"Consumer, Cyclical",430.7600000000001,Brazil
+381,2020-03-04,"Consumer, Non-cyclical",499.26000000000005,Brazil
+382,2020-03-04,Energy,178.62,Brazil
+383,2020-03-04,Financial,573.13,Brazil
+384,2020-03-04,Industrial,109.05,Brazil
+385,2020-03-04,Technology,74.0,Brazil
+386,2020-03-04,Utilities,280.70000000000005,Brazil
+387,2020-03-05,Basic Materials,162.14000000000001,Brazil
+388,2020-03-05,Communications,166.47,Brazil
+389,2020-03-05,"Consumer, Cyclical",402.9,Brazil
+390,2020-03-05,"Consumer, Non-cyclical",473.42,Brazil
+391,2020-03-05,Energy,167.29999999999998,Brazil
+392,2020-03-05,Financial,541.0600000000001,Brazil
+393,2020-03-05,Industrial,105.73999999999998,Brazil
+394,2020-03-05,Technology,69.5,Brazil
+395,2020-03-05,Utilities,270.96000000000004,Brazil
+396,2020-03-06,Basic Materials,152.43999999999997,Brazil
+397,2020-03-06,Communications,160.44,Brazil
+398,2020-03-06,"Consumer, Cyclical",396.85,Brazil
+399,2020-03-06,"Consumer, Non-cyclical",455.40000000000003,Brazil
+400,2020-03-06,Energy,158.07999999999998,Brazil
+401,2020-03-06,Financial,527.1199999999999,Brazil
+402,2020-03-06,Industrial,100.22000000000001,Brazil
+403,2020-03-06,Technology,64.94,Brazil
+404,2020-03-06,Utilities,260.62,Brazil
+405,2020-03-09,Basic Materials,132.06,Brazil
+406,2020-03-09,Communications,145.68,Brazil
+407,2020-03-09,"Consumer, Cyclical",357.21000000000004,Brazil
+408,2020-03-09,"Consumer, Non-cyclical",402.62999999999994,Brazil
+409,2020-03-09,Energy,133.57999999999998,Brazil
+410,2020-03-09,Financial,464.52,Brazil
+411,2020-03-09,Industrial,91.65,Brazil
+412,2020-03-09,Technology,58.32,Brazil
+413,2020-03-09,Utilities,236.53000000000003,Brazil
+414,2020-03-10,Basic Materials,146.41,Brazil
+415,2020-03-10,Communications,154.49,Brazil
+416,2020-03-10,"Consumer, Cyclical",383.65,Brazil
+417,2020-03-10,"Consumer, Non-cyclical",434.38000000000005,Brazil
+418,2020-03-10,Energy,145.45,Brazil
+419,2020-03-10,Financial,492.84000000000003,Brazil
+420,2020-03-10,Industrial,95.33999999999999,Brazil
+421,2020-03-10,Technology,62.28000000000001,Brazil
+422,2020-03-10,Utilities,250.65000000000003,Brazil
+423,2020-03-11,Basic Materials,131.13,Brazil
+424,2020-03-11,Communications,149.81,Brazil
+425,2020-03-11,"Consumer, Cyclical",358.27,Brazil
+426,2020-03-11,"Consumer, Non-cyclical",402.33000000000004,Brazil
+427,2020-03-11,Energy,131.07999999999998,Brazil
+428,2020-03-11,Financial,452.98,Brazil
+429,2020-03-11,Industrial,88.74000000000001,Brazil
+430,2020-03-11,Technology,58.7,Brazil
+431,2020-03-11,Utilities,236.8,Brazil
+432,2020-03-12,Basic Materials,108.6,Brazil
+433,2020-03-12,Communications,129.73,Brazil
+434,2020-03-12,"Consumer, Cyclical",293.03999999999996,Brazil
+435,2020-03-12,"Consumer, Non-cyclical",338.75,Brazil
+436,2020-03-12,Energy,106.34,Brazil
+437,2020-03-12,Financial,384.05999999999995,Brazil
+438,2020-03-12,Industrial,73.82000000000001,Brazil
+439,2020-03-12,Technology,51.19,Brazil
+440,2020-03-12,Utilities,207.01,Brazil
