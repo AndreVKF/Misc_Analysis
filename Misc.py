@@ -1,10 +1,11 @@
-from API_BBG import BBG_POST
+from API_BBG import API_BBG
 from SQL_Server_Connection import SQL_Server_Connection
 
 import pandas as pd
 import numpy as np
 
 SQL_Server_Connection = SQL_Server_Connection(database='PM')
+API_BBG = API_BBG()
 
 RiskFactors = SQL_Server_Connection.getData(query="SELECT * FROM Riskfactor")
 
@@ -29,3 +30,6 @@ for Id_RiskFactor in Id_List:
     insert_DF['5DReturn'] = np.nan
 
     SQL_Server_Connection.insertDataFrame(tableDB='IndexesValue', df=insert_DF)
+
+
+YAS_RISK_BBG = API_BBG.BBG_POST(bbg_request='BDP', tickers=['USP190B2KG96@BGN Corp'], fields=['YAS_RISK'], overrides={"YAS_YLD_FLAG": "15", "SETTLE_DT": "20201028"})

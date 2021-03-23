@@ -9,56 +9,59 @@ from pandas.io.json import json_normalize
 # Ticker = List<Tickers>
 # Fields = Field
 # Return Data Frame with request
-def BBG_POST(bbg_request, tickers, fields, date_start=None, date_end=None, overrides=None):
 
-    # Variaveis BDP ou BDH
-    if bbg_request == "BDP":
-        url = "http://10.1.1.31:8099/App_BBG_Request/BDP/"
-        data_post = {
-            "tickers": tickers,
-            "fields": fields,
-            "overrides": overrides
-        }
+class API_BBG():
 
-        # Make Requests
-        r = requests.post(url=url, data=json.dumps(data_post))
+    def BBG_POST(self, bbg_request, tickers, fields, date_start=None, date_end=None, overrides=None):
 
-        return pd.read_json(r.json(), orient='index')
+        # Variaveis BDP ou BDH
+        if bbg_request == "BDP":
+            url = "http://10.1.1.31:8099/App_BBG_Request/BDP/"
+            data_post = {
+                "tickers": tickers,
+                "fields": fields,
+                "overrides": overrides
+            }
 
-    elif bbg_request == "BDH":
-        url = "http://10.1.1.31:8099/App_BBG_Request/BDH/"
-        data_post = {
-            "tickers": tickers,
-            "fields": fields,
-            "date_start": date_start,
-            "date_end": date_end,
-            "overrides": overrides
-        }
+            # Make Requests
+            r = requests.post(url=url, data=json.dumps(data_post))
 
-        # Make Requests
-        r = requests.post(url=url, data=json.dumps(data_post))
+            return pd.read_json(r.json(), orient='index')
 
-        # Empty dataframe
-        newDF = pd.DataFrame()
-        # Serializa response
-        data = eval(r.json())
+        elif bbg_request == "BDH":
+            url = "http://10.1.1.31:8099/App_BBG_Request/BDH/"
+            data_post = {
+                "tickers": tickers,
+                "fields": fields,
+                "date_start": date_start,
+                "date_end": date_end,
+                "overrides": overrides
+            }
 
-        for key in data:
-            df = pd.read_json(data[key], orient='index')
-            df['Ticker'] = key
-            df = df.reset_index()
-            df.rename(columns={'index': 'Refdate'}, inplace=True)
+            # Make Requests
+            r = requests.post(url=url, data=json.dumps(data_post))
 
-            newDF = newDF.append(df, ignore_index=True, sort=True)
+            # Empty dataframe
+            newDF = pd.DataFrame()
+            # Serializa response
+            data = eval(r.json())
 
-        """
-        for key in data:
-            df = pd.read_json(data[key], orient='index')
-            df['Ticker'] = key
+            for key in data:
+                df = pd.read_json(data[key], orient='index')
+                df['Ticker'] = key
+                df = df.reset_index()
+                df.rename(columns={'index': 'Refdate'}, inplace=True)
 
-            df = df.set_index(keys=['Ticker'], drop=True)
-            del df.index.name
+                newDF = newDF.append(df, ignore_index=True, sort=True)
 
-            newDF = newDF.append(df, ignore_index=False, sort=True)"""
+            """
+            for key in data:
+                df = pd.read_json(data[key], orient='index')
+                df['Ticker'] = key
 
-        return newDF
+                df = df.set_index(keys=['Ticker'], drop=True)
+                del df.index.name
+
+                newDF = newDF.append(df, ignore_index=False, sort=True)"""
+
+            return newDF
