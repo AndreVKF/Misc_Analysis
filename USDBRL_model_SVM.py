@@ -211,9 +211,22 @@ DF_2 = pd.DataFrame({
     }, 
     index=Pivot_Data.index)
 
+DF_2['Avg_30D'] = DF_2['USDBRL'].rolling(window=30).mean()
+DF_2['Std_30D'] = DF_2['USDBRL'].rolling(window=30).std()
+
+# 2x Std Bandas
+DF_2['Avg_30D_Upper_Band'] = DF_2['Avg_30D'] + 2*DF_2['Std_30D']
+DF_2['Avg_30D_Lower_Band'] = DF_2['Avg_30D'] - 2*DF_2['Std_30D']
+
+# Drop Std Column
+DF_2.drop(columns=['Std_30D'], inplace=True)
+
 figura = px.line(title = f'SVR RBF Model C={c} Gamma=Default')
-for i in DF_2.columns:
-    figura.add_scatter(x=DF_2.index, y=DF_2[i], name=i)
+figura.add_scatter(x=DF_2.index, y=DF_2['USDBRL'], name='USDBRL', mode='lines')
+figura.add_scatter(x=DF_2.index, y=DF_2['Prediction'], name='Prediction', mode='lines')
+figura.add_scatter(x=DF_2.index, y=DF_2['Avg_30D_Upper_Band'], name='Avg_30D_Upper_Band', line_color='#7f7f7f', line_dash="dash")
+figura.add_scatter(x=DF_2.index, y=DF_2['Avg_30D_Lower_Band'], name='Avg_30D_Lower_Band', line_color='#7f7f7f', line_dash="dash")
+# figura.add_scatter(x=DF_2.index, y=DF_2['Avg_30D'], name='Avg_30D', line_color="#bcbd22", line_dash="solid")
 figura.show()
 
 md_2.score(x_sc_teste, y_sc_teste)
